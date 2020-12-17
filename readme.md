@@ -1,8 +1,8 @@
-<img src="https://github.com/dg1sbg/raw/main/images/adt200a.jpg" width="200" height="200"/><h1>
+<img src="https://github.com/dg1sbg/adt200a-omnirig/raw/main/images/adt200a.jpg" width="400"/><h1>
 # ADT-200A OMNIRIG INI FILE
 
 ## What Is This?
-This is an INI file that enables using the [ADT-200A](http://www.adat.ch/) with software like [CW Skimmer](http://www.dxatlas.com/cwskimmer/) that is based on [OMNI-RIG](http://www.dxatlas.com/omnirig/)<br><br>See file [ADT-200A.ini]() for supported Omnirig commands.<br><br>The file was developed using the [OMNI-RIG INI file structure description](http://www.dxatlas.com/OmniRig/IniStru.txt) defined by [Alex, VE3NEA](http://www.dxatlas.com).
+This is an INI file that enables using the [ADT-200A](http://www.adat.ch/) with software like [CW Skimmer](http://www.dxatlas.com/cwskimmer/) that is based on [OMNI-RIG](http://www.dxatlas.com/omnirig/). See file [ADT-200A.ini](https://github.com/dg1sbg/adt200a-omnirig/raw/main/ADT-200A.ini) for supported Omnirig commands.<br><br>The file was developed using the [OMNI-RIG INI file structure description](http://www.dxatlas.com/OmniRig/IniStru.txt) defined by [Alex, VE3NEA](http://www.dxatlas.com).
 
 ## Licensing
 
@@ -24,4 +24,4 @@ Generally you can report problems by [opening an issue](https://github.com/dg1sb
 * Patience.
 
 ## Contact
-Currently, this repository is managed by Frank Goenninger (a.k.a. as "frgo"). He may be reached via email at [frank.goenninger@goenninger.net](mailto:frank.goenninger@goenninger.net).
+Currently, this repository is managed by Frank Goenninger, Amateur Radio callsign DG1SBG (a.k.a. as "frgo"). He may be reached via email at [frank.goenninger@goenninger.net](mailto:frank.goenninger@goenninger.net).
